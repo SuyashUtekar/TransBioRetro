@@ -19,3 +19,9 @@ A Streamlit-based web application that predicts retrosynthetic pathways using a 
 - `PyTorch`, `Transformers (HuggingFace)`
 - `Streamlit` for the frontend
 - `Pandas` for data manipulation
+
+
+## 🚀 Deployed on Streamlit 
+
+- I have deployed the streamlit app in the streamlit community.
+- Public URL - https://transbioretro-chahkaj5nuwiwc3rdru56l.streamlit.app/
