@@ -7,7 +7,6 @@ sentencepiece
 kagglehub
 peft
 graphviz
-rdkit
 networkx
 plotly
 accelerate
