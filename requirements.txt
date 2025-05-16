@@ -13,6 +13,5 @@ plotly
 accelerate
 rdkit-pypi 
 streamlit-agraph
-libxrender1
 libsm6
 libxext6
